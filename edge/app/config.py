@@ -1,0 +1,6 @@
+MQTT_BROKER = __import__('os').environ.get('MQTT_BROKER', 'mqtt')
+MQTT_PORT = int(__import__('os').environ.get('MQTT_PORT', 1883))
+HOUSE_ID = __import__('os').environ.get('HOUSE_ID', 'home-01')
+EDGE_ID = __import__('os').environ.get('EDGE_ID', 'edge-pi-001')
+INFERENCE_THRESHOLD = float(__import__('os').environ.get('INFERENCE_THRESHOLD', 0.5))
+MODEL_PATH = __import__('os').environ.get('MODEL_PATH', '/app/models/nilm.tflite')
