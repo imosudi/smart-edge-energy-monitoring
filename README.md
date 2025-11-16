@@ -1,9 +1,9 @@
-# ![alt text](EdgeNergyLogo.svg) EdgeNergy 
+# ![alt text](images/EdgeNergyLogo.svg) EdgeNergy 
 
 **An open, reproducible device→edge→cloud architecture for real-time smart home energy monitoring.**  
 Includes firmware, edge preprocessing, TinyML models (NILM, anomaly detection, forecasting), cloud pipelines, dashboards, and CI/CD infrastructure for benchmarking latency, accuracy, privacy, and bandwidth efficiency.
 
-![smart-edge-energy-monitoring](./EdgeNergy.svg)
+![smart-edge-energy-monitoring](./images/EdgeNergy.svg)
 
 <!-- Quick Info / Toolchain -->
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
