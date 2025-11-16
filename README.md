@@ -1,5 +1,4 @@
 # ![alt text](EdgeNergy.svg) EdgeNergy 
- **- smart-edge-energy-monitoring** 
 
 **An open, reproducible device→edge→cloud architecture for real-time smart home energy monitoring.**  
 Includes firmware, edge preprocessing, TinyML models (NILM, anomaly detection, forecasting), cloud pipelines, dashboards, and CI/CD infrastructure for benchmarking latency, accuracy, privacy, and bandwidth efficiency.
@@ -68,7 +67,7 @@ Please open an issue or pull request to suggest new features, improvements, or b
 If you use ReSimHub in your research, please cite as:
 
 ```bibtex
-@software{ReSimHub2025,
+@software{EdgeNergy2025,
   author = {Isiaka, Mosudi},
   title = {EdgeNergy: An open, reproducible device→edge→cloud architecture for real-time smart home energy monitoring.},
   year = {2025},
