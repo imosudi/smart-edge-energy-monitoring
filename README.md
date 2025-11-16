@@ -1,3 +1,5 @@
+# ![alt text](EdgeNergy.svg) EdgeNergy
+
 # smart-edge-energy-monitoring  
 **An open, reproducible device→edge→cloud architecture for real-time smart home energy monitoring.**  
 Includes firmware, edge preprocessing, TinyML models (NILM, anomaly detection, forecasting), cloud pipelines, dashboards, and CI/CD infrastructure for benchmarking latency, accuracy, privacy, and bandwidth efficiency.
@@ -29,3 +31,48 @@ Includes firmware, edge preprocessing, TinyML models (NILM, anomaly detection, f
 ![Edge AI](https://img.shields.io/badge/topic-Edge--AI-00c2a8)
 
 ---
+
+---
+
+## License
+
+This project is licensed under the **BSD 3-Clause License** — see the [LICENSE](./LICENSE) file for details.
+
+```
+BSD 3-Clause License
+
+Copyright (c) 2025, Mosudi Isiaka
+All rights reserved.
+```
+
+---
+
+## 👤 Author
+
+**Mosudi Isiaka**  
+📧 [mosudi.isiaka@gmail.com](mailto:mosudi.isiaka@gmail.com)  
+🌐 [https://mioemi.com](https://mioemi.com)   
+💻 [https://github.com/imosudi](https://github.com/imosudi)
+
+---
+
+## Contributing
+
+Contributions are welcome!  
+Please open an issue or pull request to suggest new features, improvements, or bug fixes.
+
+---
+
+## Citation (Academic Use)
+
+If you use ReSimHub in your research, please cite as:
+
+```bibtex
+@software{ReSimHub2025,
+  author = {Isiaka, Mosudi},
+  title = {EdgeNergy: An open, reproducible device→edge→cloud architecture for real-time smart home energy monitoring.},
+  year = {2025},
+  url = {https://github.com/imosudi/ReSimHub},
+  license = {BSD-3-Clause}
+}
+```
